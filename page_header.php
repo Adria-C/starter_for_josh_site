@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="<?php bloginfo('charset'); ?>"> 
+<meta charset="<?php bloginfo('charset'); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="Description" content="Enter your description here">
@@ -69,7 +69,7 @@
     </nav>
 
     <div class="smallpage-tag">
-      <h1 class="smallpage-title">Projects</h1>
+      <h1 class="smallpage-title" >Projects</h1>
     </div>
 
     

@@ -20,7 +20,7 @@
         <div class="row">
 
             <div class="col-md-4">
-              <img class="img-fluid" src="http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg" alt="woman">
+              <img class="img-fluid" src="http://170.187.231.66/~mesh7/wp-content/themes/starter_for_josh_site/images/port1.jpg" alt="woman">
               <h4 class="article-title">A PORTRAIT</h4>
               <P class="date">Friday,November 10. 2030</P>
               <P class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.</P>
@@ -28,7 +28,7 @@
             </div>
 
             <div class="col-md-4">
-              <img class="img-fluid" src="http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port2.jpg" alt="woman">
+              <img class="img-fluid" src="http://170.187.231.66/~mesh7/wp-content/themes/starter_for_josh_site/images/port2.jpg" alt="woman">
               <h4 class="article-title">A PORTRAIT</h4>
               <P class="date">Friday,November 10. 2030</P>
               <P class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.</P>
@@ -36,7 +36,7 @@
             </div>
 
             <div class="col-md-4">
-              <img class="img-fluid" src="http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port3.jpg" alt="woman">
+              <img class="img-fluid" src="http://170.187.231.66/~mesh7/wp-content/themes/starter_for_josh_site/images/port3.jpg" alt="woman">
               <h4 class="article-title">A PORTRAIT</h4>
               <P class="date">Friday,November 10. 2030</P>
               <P class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.</P>

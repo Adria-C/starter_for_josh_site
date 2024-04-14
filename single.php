@@ -28,8 +28,8 @@
         $current = $post->ID;  //get current post id 
 
         global $post;
-
-        //Fetch categories of current post
+        
+        //Fetch categories of current post
         $counter = 0;
         $allcats = '';
         foreach ((get_the_category()) as $cat) {

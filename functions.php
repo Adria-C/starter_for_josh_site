@@ -9,7 +9,11 @@ function load_my_scripts() {
   wp_enqueue_script( 'gsap-js', 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js', array(), false, true );
   wp_enqueue_script( 'gsap-js-scroll', 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js', array(), false, true );
   wp_enqueue_script( 'gsap-js-custom', get_stylesheet_directory_uri() . '/script1.js', array(), false, true );
- 
+  
+  wp_enqueue_script( 'lottie-player', 'https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js', array(), false, true );
+  wp_enqueue_script( 'lottie-interactivity', 'https://unpkg.com/@lottiefiles/lottie-interactivity@latest/dist/lottie-interactivity.min.js', array(), false, true );
+  wp_enqueue_script( 'custom_script', get_template_directory_uri() . '/script.js', array(), false, true );
+
   wp_enqueue_style( 'style-css', get_template_directory_uri() . '/style.css' );
   wp_enqueue_style( 'test', get_stylesheet_directory_uri() . '/responsive.css' );
 

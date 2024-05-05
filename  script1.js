@@ -8,16 +8,23 @@ gsap.timeline()
 .from('.navbar-brand', {opacity:0, scale: 0, ease:"back"})
 .from('.tag', {opacity:0, y: 10,  ease:"back"}); 
 
-
-gsap.from(".about-text", {
-        duration:7,
-        y:250,
-        opacity:0,
-        scrollTrigger:{
-            trigger:".aboutbg",
+const tl = gsap.timeline({
+            scrollTrigger: {
+            trigger: '.aboutbg',
             markers:true,
-            start:"bottom 90%", ///start at the top of our trigger and a percentage down the viewpost
+            start:"bottom 90%", 
             end:"top 30%",
-              scrub:6, //4 seconds of smooting
-    }
+            scrub:3, 
+                 }
+          
+    });
+    
+    tl.from('.about-text',{
+        duration:1,
+            y:250,
+        opacity:0,
+    }).from('.blocker',{
+        duration:1,
+        x:250,
+    opacity:0,
     });
